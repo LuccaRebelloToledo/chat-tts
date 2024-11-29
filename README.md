@@ -2,8 +2,6 @@
 
 O ChatTTS é um modelo de **conversão de texto em fala (TTS)** projetado especificamente para **cenários de diálogo**, oferecendo saídas de áudio naturais e expressivas.
 
----
-
 ## 🌍 **Idiomas Suportados**
 - ✅ **Inglês**
 - ✅ **Chinês**
