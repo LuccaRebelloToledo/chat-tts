@@ -18,8 +18,7 @@ ChatTTS é um modelo de conversão de texto em fala projetado especificamente pa
 
 > [!Tip]
 > Ajuste Fino Supervisionado(STF): É um processo onde um modelo pré-treinado é ajustado com dados rotulados adicionais para melhorar seu desempenho em uma tarefa específica.
-
-- Prosódia: É a melodia e o ritmo da fala, envolvendo intonação, acentuação e ritmo para transmitir naturalidade e expressividade.
+> Prosódia: É a melodia e o ritmo da fala, envolvendo intonação, acentuação e ritmo para transmitir naturalidade e expressividade.
 
 ### Como utilizar
 
@@ -28,8 +27,8 @@ ChatTTS é um modelo de conversão de texto em fala projetado especificamente pa
 
 #### Instalação
 ```sh
-git clone https://github.com/LuccaRebelloToledo/chat-tts-example.git
-cd ./chat-tts-example
+git clone https://github.com/LuccaRebelloToledo/chat-tts.git
+cd ./chat-tts
 pip install -r requirements.txt
 ```
 
